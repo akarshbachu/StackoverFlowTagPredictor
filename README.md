@@ -162,4 +162,4 @@ if sum of xor val is large then it indicates it predicted wrong labels.
 
 
 
-Note: Work still in progress....So far achieved 72% precision.
+Note: Work still in progress....So far achieved 72% precision with hamming loss of 0.002(i.e fraction of tags incorrectly predicted).

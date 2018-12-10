@@ -162,4 +162,4 @@ if sum of xor val is large then it indicates it predicted wrong labels.
 
 
 
-Note: Work still in progress....So far achieved 67% precision.
+Note: Work still in progress....So far achieved 72% precision.
